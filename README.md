@@ -1,1 +1,1 @@
-# hotel-cancellation-eda-project
+# hotel-booking-eda-project
